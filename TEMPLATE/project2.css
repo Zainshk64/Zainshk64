@@ -580,3 +580,13 @@ button:hover{
     }
     
   }
+
+
+  #light{
+    margin:  10px 10px;
+    float: right;
+    position: fixed;
+    top: 5%;
+    /* background-color: rgba(78, 135, 199, 0.583) */
+
+  }
